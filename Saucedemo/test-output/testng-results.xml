@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regression" duration-ms="180974" started-at="2022-05-17T12:50:43 IST" finished-at="2022-05-17T12:53:44 IST">
+    <groups>
+    </groups>
+    <test name="regression" duration-ms="36888" started-at="2022-05-17T12:50:43 IST" finished-at="2022-05-17T12:51:20 IST">
+      <class name="com.saucedemo.Testclasses.TC01loginfunctionality">
+        <test-method status="PASS" signature="openbrowser(java.lang.String)[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="openbrowser" is-config="true" duration-ms="11013" started-at="2022-05-17T12:50:44 IST" finished-at="2022-05-17T12:50:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="loginaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="loginaccount" is-config="true" duration-ms="19257" started-at="2022-05-17T12:50:55 IST" finished-at="2022-05-17T12:51:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginaccount -->
+        <test-method status="PASS" signature="loginfunctionality()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="loginfunctionality" duration-ms="98" started-at="2022-05-17T12:51:14 IST" finished-at="2022-05-17T12:51:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunctionality -->
+        <test-method status="PASS" signature="logoutaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="logoutaccount" is-config="true" duration-ms="778" started-at="2022-05-17T12:51:14 IST" finished-at="2022-05-17T12:51:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutaccount -->
+        <test-method status="PASS" signature="loginaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="loginaccount" is-config="true" duration-ms="2382" started-at="2022-05-17T12:51:15 IST" finished-at="2022-05-17T12:51:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginaccount -->
+        <test-method status="PASS" signature="AddtoCartfunctionality()[pri:1, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="AddtoCartfunctionality" duration-ms="828" started-at="2022-05-17T12:51:17 IST" finished-at="2022-05-17T12:51:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCartfunctionality -->
+        <test-method status="PASS" signature="logoutaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="logoutaccount" is-config="true" duration-ms="691" started-at="2022-05-17T12:51:18 IST" finished-at="2022-05-17T12:51:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutaccount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@32d2fa64]" name="teardown" is-config="true" duration-ms="1678" started-at="2022-05-17T12:51:19 IST" finished-at="2022-05-17T12:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.Testclasses.TC01loginfunctionality -->
+    </test> <!-- regression -->
+    <test name="regression1" duration-ms="143834" started-at="2022-05-17T12:51:21 IST" finished-at="2022-05-17T12:53:44 IST">
+      <class name="com.saucedemo.Testclasses.TC01loginfunctionality">
+        <test-method status="PASS" signature="openbrowser(java.lang.String)[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="openbrowser" is-config="true" duration-ms="54815" started-at="2022-05-17T12:51:21 IST" finished-at="2022-05-17T12:52:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="loginaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="loginaccount" is-config="true" duration-ms="73563" started-at="2022-05-17T12:52:15 IST" finished-at="2022-05-17T12:53:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginaccount -->
+        <test-method status="PASS" signature="loginfunctionality()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="loginfunctionality" duration-ms="57" started-at="2022-05-17T12:53:29 IST" finished-at="2022-05-17T12:53:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunctionality -->
+        <test-method status="PASS" signature="logoutaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="logoutaccount" is-config="true" duration-ms="2405" started-at="2022-05-17T12:53:29 IST" finished-at="2022-05-17T12:53:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutaccount -->
+        <test-method status="PASS" signature="loginaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="loginaccount" is-config="true" duration-ms="3556" started-at="2022-05-17T12:53:31 IST" finished-at="2022-05-17T12:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginaccount -->
+        <test-method status="PASS" signature="AddtoCartfunctionality()[pri:1, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="AddtoCartfunctionality" duration-ms="1347" started-at="2022-05-17T12:53:35 IST" finished-at="2022-05-17T12:53:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCartfunctionality -->
+        <test-method status="PASS" signature="logoutaccount()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="logoutaccount" is-config="true" duration-ms="1391" started-at="2022-05-17T12:53:36 IST" finished-at="2022-05-17T12:53:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutaccount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.saucedemo.Testclasses.TC01loginfunctionality@ed9d034]" name="teardown" is-config="true" duration-ms="6674" started-at="2022-05-17T12:53:38 IST" finished-at="2022-05-17T12:53:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.saucedemo.Testclasses.TC01loginfunctionality -->
+    </test> <!-- regression1 -->
+  </suite> <!-- regression -->
+</testng-results>
