@@ -32,7 +32,7 @@ public void AddtoCartfunctionality()
 	String Expectedtext="REMOVE";
 	System.out.println(Expectedtext);
 	Assert.assertEquals(actualtext, Expectedtext);
-	
+	System.out.println("test 2");
 }
 	
 }
